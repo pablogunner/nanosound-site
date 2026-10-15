@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /test.txt
+
+Sitemap: https://www.estudionanosound.com.br/sitemap.xml
